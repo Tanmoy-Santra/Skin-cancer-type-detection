@@ -110,7 +110,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 
 app = Flask(__name__)
-CORS(app, supports_credentials=True, origins=["http://localhost:5173", "https://skincancercheck.vercel.app"])
+CORS(app, supports_credentials=True, origins=["http://localhost:5173", "https://skin-cancer-type-detection.vercel.app/"])
 
 # Load the saved model
 logging.debug("Loading model...")
