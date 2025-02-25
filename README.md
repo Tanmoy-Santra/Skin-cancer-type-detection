@@ -2,8 +2,13 @@
 
 ## 📌 Project Description  
 
+## 📂 **Database and Preprocessing Drive Link**  
+[Click here to access the dataset](https://drive.google.com/drive/folders/1qvTAbpOEorUi-vTXffzbA0rfPig2BBke?usp=sharing)
+
 ### **🔹 Introduction**  
 Skin cancer is one of the most common types of cancer worldwide. Early detection and classification of different skin cancer types can significantly improve treatment success. This project leverages **Deep Learning** to classify skin cancer types using **Convolutional Neural Networks (CNNs)**.  
+
+![Image](https://github.com/user-attachments/assets/e68ebccb-3dce-4005-b4ce-802a76c4c086)
 
 ### **🎯 Goal:**  
 - **Preprocess and clean** the dataset to improve model accuracy.  
@@ -87,15 +92,13 @@ We use the **HAM10000 dataset** (Human Against Machine dataset), which contains 
 1. **Install dependencies:**  
    ```bash
    pip install flask tensorflow numpy pandas scikit-learn
-
 2. **Run the Flask app:**
-```bash
-python app.py
-
-3. **Frontend (Vite + React.js)**
-**Install dependencies:**
-```bash
- npm install
-4. **Start the frontend server:**
-```bash
-npm run dev
+   ```bash
+   python app.py
+### ** 🔹 Frontend (Vite + React.js)**
+1. **Install dependencies:**
+   ```bash
+    npm install
+3. Start the frontend server:
+   ```bash
+   npm run dev
