@@ -87,15 +87,15 @@ We use the **HAM10000 dataset** (Human Against Machine dataset), which contains 
 1. **Install dependencies:**  
    ```bash
    pip install flask tensorflow numpy pandas scikit-learn
-
 2. **Run the Flask app:**
 ```bash
-python app.py
+   python app.py
 
-3. **Frontend (Vite + React.js)**
-**Install dependencies:**
+### ** 🔹 Frontend (Vite + React.js)**
+1. **Install dependencies:**
 ```bash
  npm install
-4. **Start the frontend server:**
+
+2. **Start the frontend server:**
 ```bash
 npm run dev
