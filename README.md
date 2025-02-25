@@ -2,6 +2,9 @@
 
 ## 📌 Project Description  
 
+## 📂 **Database and Preprocessing Drive Link**  
+[Click here to access the dataset](https://drive.google.com/drive/folders/1qvTAbpOEorUi-vTXffzbA0rfPig2BBke?usp=sharing)
+
 ### **🔹 Introduction**  
 Skin cancer is one of the most common types of cancer worldwide. Early detection and classification of different skin cancer types can significantly improve treatment success. This project leverages **Deep Learning** to classify skin cancer types using **Convolutional Neural Networks (CNNs)**.  
 
