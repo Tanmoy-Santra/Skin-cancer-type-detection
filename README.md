@@ -97,9 +97,8 @@ We use the **HAM10000 dataset** (Human Against Machine dataset), which contains 
    python app.py
 ### ** 🔹 Frontend (Vite + React.js)**
 1. **Install dependencies:**
-
- npm install
-
-2. Start the frontend server:
-
-npm run dev
+   ```bash
+    npm install
+3. Start the frontend server:
+   ```bash
+   npm run dev
