@@ -8,6 +8,8 @@
 ### **🔹 Introduction**  
 Skin cancer is one of the most common types of cancer worldwide. Early detection and classification of different skin cancer types can significantly improve treatment success. This project leverages **Deep Learning** to classify skin cancer types using **Convolutional Neural Networks (CNNs)**.  
 
+![Image](https://github.com/user-attachments/assets/e68ebccb-3dce-4005-b4ce-802a76c4c086)
+
 ### **🎯 Goal:**  
 - **Preprocess and clean** the dataset to improve model accuracy.  
 - **Train a CNN model** using deep learning techniques.  
