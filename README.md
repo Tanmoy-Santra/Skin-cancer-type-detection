@@ -91,9 +91,9 @@ We use the **HAM10000 dataset** (Human Against Machine dataset), which contains 
 ### **🔹 Backend (Flask API)**  
 1. **Install dependencies:**  
    ```bash
-   pip install flask tensorflow numpy pandas scikit-learn ```
+   pip install flask tensorflow numpy pandas scikit-learn
 2. **Run the Flask app:**
-```bash
+   ```bash
    python app.py
 ### ** 🔹 Frontend (Vite + React.js)**
 1. **Install dependencies:**
